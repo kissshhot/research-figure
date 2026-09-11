@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研绘图"
+  short_description: "根据科学问题选择图形表达，组织信息层次并检查准确性与可读性"
+  default_prompt: "请使用 $research-figure，为这份科研内容选择合适的图形表达，并交付源文件与检查后的成图。"
